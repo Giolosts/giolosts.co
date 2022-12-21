@@ -1,0 +1,40 @@
+.NavItems {
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+    color: #FFF;
+}
+.logo {
+   margin-right: 20px;
+}
+.ContactButton {
+    font-size: 12px;
+}
+.NotScrolled {
+    background: none;
+  }
+
+.nav {
+    background-color: #212529;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+    z-index: 10;
+}
+
+@media only screen and (max-width: 768px) {
+    .nav {
+        background-color: #212529;
+        color: white;
+        position: fixed;
+        top: 0;
+        left: 0;
+        transition: 0.5s;
+        z-index: 10;
+    }
+    .NotScrolled {
+        background: #212529;
+      }
+  }

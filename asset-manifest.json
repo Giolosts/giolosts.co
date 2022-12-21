@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/giolosts.co/static/css/main.b8cd5d65.css",
-    "main.js": "/giolosts.co/static/js/main.609150f7.js",
+    "main.js": "/giolosts.co/static/js/main.3aadb1c8.js",
     "static/js/787.5b4b9fa4.chunk.js": "/giolosts.co/static/js/787.5b4b9fa4.chunk.js",
     "static/media/home-img1.png": "/giolosts.co/static/media/home-img1.a291c2913a3d5f6233a0.png",
     "static/media/postgre.png": "/giolosts.co/static/media/postgre.c8891cc79d21bc263a06.png",
@@ -28,11 +28,11 @@
     "static/media/twitter.svg": "/giolosts.co/static/media/twitter.b254a76df106cc45afabfecbcf706a07.svg",
     "index.html": "/giolosts.co/index.html",
     "main.b8cd5d65.css.map": "/giolosts.co/static/css/main.b8cd5d65.css.map",
-    "main.609150f7.js.map": "/giolosts.co/static/js/main.609150f7.js.map",
+    "main.3aadb1c8.js.map": "/giolosts.co/static/js/main.3aadb1c8.js.map",
     "787.5b4b9fa4.chunk.js.map": "/giolosts.co/static/js/787.5b4b9fa4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8cd5d65.css",
-    "static/js/main.609150f7.js"
+    "static/js/main.3aadb1c8.js"
   ]
 }

@@ -16,9 +16,9 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="giolosts.co/engineer" element={<Engineer />} />
-        <Route path="giolosts.co/aboutus" element={<AboutUs />} />
-        <Route path="giolosts.co/companies" element={<Company />} />
+        <Route path="/giolosts.co/engineer" element={<Engineer />} />
+        <Route path="/giolosts.co/aboutus" element={<AboutUs />} />
+        <Route path="/giolosts.co/companies" element={<Company />} />
       </Routes>
       <Footer />
     </div>

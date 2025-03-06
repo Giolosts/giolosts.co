@@ -1,0 +1,34 @@
+.footerContainer {
+    background-color: #212529;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: aliceblue;
+}
+.NavItems {
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    margin-right: 5%;
+    font-weight: bold;
+}
+.logo {
+    margin-right: 20px;
+}
+.ConnectContainer {
+    margin-top: 50px;
+}
+.ConnectItems {
+    margin-left: 20%;
+}
+.ConnectHeader {
+    font-size: 12px;
+    font-weight: bold;
+}
+.SocialMedContainer {
+    display: flex;
+}
+.SocialIcons {
+    margin-left: 10px;
+    font-size: 30px;
+}

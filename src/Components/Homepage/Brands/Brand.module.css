@@ -1,0 +1,12 @@
+.BrandContainer {
+    display: flex;
+    flex-direction: column;
+}
+.Brand {
+    display: flex;
+    flex-direction: row;
+}
+.BrandItem {
+    margin-top: 50px;
+    text-align: center;
+}

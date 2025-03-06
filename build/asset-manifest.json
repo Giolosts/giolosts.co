@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.12e23c74.css",
+    "main.js": "./static/js/main.ee81dd4f.js",
+    "static/js/453.e611544c.chunk.js": "./static/js/453.e611544c.chunk.js",
+    "static/media/home-img1.png": "./static/media/home-img1.a291c2913a3d5f6233a0.png",
+    "static/media/postgre.png": "./static/media/postgre.c8891cc79d21bc263a06.png",
+    "static/media/software-solutions.png": "./static/media/software-solutions.97934e4a6cfb7f7ec4a1.png",
+    "static/media/sprint.png": "./static/media/sprint.3ced9f3e8d308e46fef5.png",
+    "static/media/Agile-Project-Management.png": "./static/media/Agile-Project-Management.22d0b2edcf445050b7d0.png",
+    "static/media/home-img2.png": "./static/media/home-img2.a459964e35411d672020.png",
+    "static/media/offers.png": "./static/media/offers.625f2682d1de16c8fc2f.png",
+    "static/media/offersImg.png": "./static/media/offersImg.22c176e4aad1c555283d.png",
+    "static/media/react.png": "./static/media/react.f3e576ba08e6be927148.png",
+    "static/media/home-img3.png": "./static/media/home-img3.c7c7984a000914116748.png",
+    "static/media/angular.png": "./static/media/angular.ea9c274178f0927fbfac.png",
+    "static/media/services.png": "./static/media/services.ca5d3419c46b9cf4d040.png",
+    "static/media/node.png": "./static/media/node.88a5f798e5e261fdcec8.png",
+    "static/media/beachbody.svg": "./static/media/beachbody.471721c2c1fd94e24f73aa8a19397b12.svg",
+    "static/media/dev.webp": "./static/media/dev.d34e59e512d5656db92f.webp",
+    "static/media/sony.svg": "./static/media/sony.f1ba3d3ef0eb7164f6484c98c4d7e35b.svg",
+    "static/media/company.webp": "./static/media/company.f6f632e3e7afcf0fd15d.webp",
+    "static/media/threadless.svg": "./static/media/threadless.3dfd9cfcb45e9a44d52d370469ed8765.svg",
+    "static/media/intel.svg": "./static/media/intel.8615f5e2996c999dda391bb77b7b193f.svg",
+    "static/media/rio-games.svg": "./static/media/rio-games.7457315bc68e578fa75b9c3a97c7f0a7.svg",
+    "static/media/kaplan.svg": "./static/media/kaplan.373834a240683c46834c403fa354a329.svg",
+    "static/media/fox.svg": "./static/media/fox.fd50b3aace7886dc065ee3d502e702af.svg",
+    "static/media/twitter.svg": "./static/media/twitter.b254a76df106cc45afabfecbcf706a07.svg",
+    "index.html": "./index.html",
+    "main.12e23c74.css.map": "./static/css/main.12e23c74.css.map",
+    "main.ee81dd4f.js.map": "./static/js/main.ee81dd4f.js.map",
+    "453.e611544c.chunk.js.map": "./static/js/453.e611544c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e23c74.css",
+    "static/js/main.ee81dd4f.js"
+  ]
+}
